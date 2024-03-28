@@ -6,6 +6,8 @@ Project ini memiliki fitur diantaranya sebagai berikut :
 - Mengubah data buku berdasarkan id
 - Menghapus data buku berdasarkan id
 
+Base URL : http://localhost:9000
+
 API Endpoint
 
 - Menyimpan buku : /books (Method POST), input diambil dari body request (name, year, author, summary, publisher, pageCount, readPage, dan reading)
