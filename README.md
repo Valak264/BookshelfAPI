@@ -1,5 +1,3 @@
-Project Submission untuk Kelulusan Course "Belajar Membuat Aplikasi Back-End untuk Pemula"
-
 Project ini dibangun menggunakan Javascript (Node.JS) dengan menggunakan framework Hapi.JS. 
 Project ini memiliki fitur diantaranya sebagai berikut :
 - Menyimpan data buku dalam bentuk JSON (di dalam sebuah array bernama "books")
